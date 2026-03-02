@@ -1,0 +1,4 @@
+C:\Users\aluno\Documents\Atividade\ConsumerGitHubuser\obj\Debug\net10.0\ConsumerGitHubuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Atividade\ConsumerGitHubuser\obj\Debug\net10.0\ConsumerGitHubuser.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Atividade\ConsumerGitHubuser\obj\Debug\net10.0\ConsumerGitHubuser.AssemblyInfo.cs
+C:\Users\aluno\Documents\Atividade\ConsumerGitHubuser\obj\Debug\net10.0\ConsumerGitHubuser.csproj.CoreCompileInputs.cache
